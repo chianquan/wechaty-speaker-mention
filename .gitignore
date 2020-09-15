@@ -1,0 +1,5 @@
+node_modules/
+**/*.js
+*.memory-card.json
+.idea/
+**/*.d.ts
